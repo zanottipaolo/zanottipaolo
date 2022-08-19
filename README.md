@@ -14,20 +14,11 @@ My name is Paolo and I'm a Computer Engineering student and a Software Engineer 
 
 These are my GitHub statistics 📈👇
 
-<div>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=zanottipaolo&show_icons=true&theme=vue-dark" alt="Paolo Zanotti's GitHub stats" />
-</a>
-<a href="https://github.com/denvercoder1/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zanottipaolo&theme=vue-dark" alt="Streak" />
-</a>
-</div>
-<div align="center">
-<a style="text-align: center;" href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zanottipaolo&layout=compact&theme=vue-dark&langs_count=6" alt="Top Lang" />
-</a>
-</div>
+[![Paolo Zanotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanottipaolo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Streak](https://github-readme-streak-stats.herokuapp.com/?user=zanottipaolo&theme=vue-dark)](https://github.com/denvercoder1/github-readme-streak-stats)
+
+[![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zanottipaolo&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Visit](https://visitor-badge.glitch.me/badge?page_id=zanottipaolo.zanottipaolo)
 ![Visitor Count](https://profile-counter.glitch.me/zanottipaolo/count.svg)-->
