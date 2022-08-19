@@ -1,4 +1,4 @@
-![Header Banner](assets/github-header-image-1.png)
+![Header Banner](assets/github-header-1.png)
 
 ## Hi everyone! <img src="assets/Hi.gif" alt="👋" width="35"/>
 
