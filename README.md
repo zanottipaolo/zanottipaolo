@@ -1,4 +1,6 @@
-## Hi everyone! 👋
+## Hi everyone! <img src="assets/Hi.gif" alt="👋" width="35"/>
+
+
 ### 🙋🏻‍♂️ About me 
 My name is Paolo and I'm a Computer Engineering student and a Software Engineer from Bergamo 🇮🇹
 
@@ -10,6 +12,7 @@ My name is Paolo and I'm a Computer Engineering student and a Software Engineer 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
+
 
 ### 📈 My GitHub stats
 <!--![Visit](https://visitor-badge.glitch.me/badge?page_id=zanottipaolo.zanottipaolo)
