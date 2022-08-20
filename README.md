@@ -1,16 +1,15 @@
 ![Header Banner](assets/github-header-1.png)
 
 ### Hi everyone! <img src="assets/Hi.gif" alt="👋" width="35"/>
-My name is Paolo and I'm a Computer Engineering student and a Software Engineer from Bergamo 🇮🇹
+My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.unibg.it) and a _Software Engineer_ from Bergamo 🇮🇹<br>
+I'm very interested in Computer science, Management, Health and more generally in the world of Engineering. I'm always looking for something new to learn! 👀
 
-<!--- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...-->
+Right now I'm trying to:
+- Complete my Portfolio (soon to be available at [paolozanotti.dev](https://paolozanotti.dev)) 👨🏻‍💻
+- Start my own company 🚀
+- Graduate 🎓
+
+I'd also like to start a blog (working on it) ✏️
 
 These are my GitHub statistics 📈👇
 
@@ -20,5 +19,9 @@ These are my GitHub statistics 📈👇
 
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zanottipaolo&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--![Visit](https://visitor-badge.glitch.me/badge?page_id=zanottipaolo.zanottipaolo)
-![Visitor Count](https://profile-counter.glitch.me/zanottipaolo/count.svg)-->
+<p align="center">Visitors on this page:</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/zanottipaolo/count.svg" alt="Visitor Count" />
+</div>
+
+_<p align="center">Enjoy my profile!</p>_
