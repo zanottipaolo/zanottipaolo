@@ -26,4 +26,23 @@ I'd also like to start a blog where I can write about my interests and my though
 <img width="180" src="assets/rocket.gif" alt="Gif Rocket" />
 </div>
 
+
+<p align="center">
+<a href="https://www.hackerrank.com/zanottipaolo" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/hackerrank.svg" alt="HACKERRANK: zanottipaolo" height="30" width="40" />
+</a>
+<a href="https://dev.to/zanottipaolo" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/devdotto.svg" alt="DEV: zanottipaolo" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/paolo-zanotti" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/linkedin.svg" alt="LINKEDIN: paolo-zanotti" height="30" width="40" />
+</a>
+<a href="https://t.me/zanottipaolo" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/telegram.svg" alt="TELEGRAM: zanottipaolo" height="30" width="40"/>
+</a>
+<a href="https://instagram.com/zanotti__paolo" target="_blank" rel="noopener noreferrer">
+<img align="center" src="assets/instagram.svg" alt="INSTAGRAM: zanotti__paolo" height="30" width="40" />
+</a>
+</p>
+
 _<p align="center">Check out my projects! 👇</p>_
