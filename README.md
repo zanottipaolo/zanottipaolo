@@ -1,17 +1,18 @@
 ![Header Banner](assets/github-header-1.png)
 
-### Hi everyone! <img src="assets/Hi.gif" alt="👋" width="35"/>
+### Hello world <img src="assets/Hi.gif" alt="👋" width="35"/>
 My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.unibg.it) and a _Software Engineer_ from Bergamo 🇮🇹<br>
-I'm very interested in Computer science, Management, Health and more generally in the world of Engineering. I'm always looking for something new to learn! 👀
+I like to read books, play CTF challenges, write code and I'm very into Open Source, Computer science, Management, Health and more generally in the world of Engineering. I'm always looking for something new to learn. 👀
 
 Right now I'm trying to:
-- Complete my Portfolio (soon to be available at [paolozanotti.dev](https://paolozanotti.dev)) 👨🏻‍💻
-- Start my own company 🚀
-- Graduate 🎓
+- _Complete my Portfolio_ (_soon to be available at_ [_paolozanotti.dev_](https://paolozanotti.dev)) 👨🏻‍💻
+- _Start my own company_ 🚀
+- _Graduate_ 🎓
 
-I'd also like to start a blog (working on it) ✏️
+I'd also like to start a blog where I can write about my interests and my thoughts (coming soon) ✏️
 
-These are my GitHub statistics 📈👇
+<details>
+<summary>These are my GitHub statistics (click to view) 📈</summary>
 
 [![Paolo Zanotti's GitHub stats](https://github-readme-stats.vercel.app/api?username=zanottipaolo&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -19,9 +20,10 @@ These are my GitHub statistics 📈👇
 
 [![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=zanottipaolo&layout=compact&theme=vue-dark&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">Visitors on this page:</p>
+</details>
+
 <div align="center">
-  <img src="https://profile-counter.glitch.me/zanottipaolo/count.svg" alt="Visitor Count" />
+<img width="250" src="https://s4.gifyu.com/images/animation_500_l73axulr.gif" alt="Gif" />
 </div>
 
-_<p align="center">Enjoy my profile!</p>_
+_<p align="center">Check out my projects! 👇</p>_
