@@ -23,7 +23,7 @@ I'd also like to start a blog where I can write about my interests and my though
 </details>
 
 <div align="center">
-<img width="250" src="https://s4.gifyu.com/images/animation_500_l73axulr.gif" alt="Gif" />
+<img width="180" src="assets/rocket.gif" alt="Gif Rocket" />
 </div>
 
 _<p align="center">Check out my projects! 👇</p>_
