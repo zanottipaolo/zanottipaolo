@@ -26,7 +26,6 @@ I'd also like to start a blog where I can write about my interests and my though
 <img width="180" src="assets/rocket.gif" alt="Gif Rocket" />
 </div>
 
-
 <p align="center">
 <a href="https://www.hackerrank.com/zanottipaolo" target="_blank" rel="noopener noreferrer">
 <img align="center" src="assets/hackerrank.svg" alt="HACKERRANK: zanottipaolo" height="30" width="40" />
