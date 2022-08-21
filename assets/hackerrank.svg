@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   role="img"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="hackerrank.svg"
+   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs17" />
+  <sodipodi:namedview
+     id="namedview15"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="26.041667"
+     inkscape:cx="12"
+     inkscape:cy="12"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <title
+     id="title9">HackerRank</title>
+  <path
+     d="M0 0v24h24V0zm9.95 8.002h1.805c.061 0 .111.05.111.111v7.767c0 .061-.05.111-.11.111H9.95c-.061 0-.111-.05-.111-.11v-2.87H7.894v2.87c0 .06-.05.11-.11.11H5.976a.11.11 0 01-.11-.11V8.112c0-.06.05-.11.11-.11h1.806c.061 0 .11.05.11.11v2.869H9.84v-2.87c0-.06.05-.11.11-.11zm2.999 0h5.778c.061 0 .111.05.111.11v7.767a.11.11 0 01-.11.112h-5.78a.11.11 0 01-.11-.11V8.111c0-.06.05-.11.11-.11z"
+     id="path11" />
+  <path
+     style="fill:#00ea64;stroke:#000000;stroke-width:0.133862;fill-opacity:1"
+     d="m 12.8704,15.9296 c -0.01408,-0.01408 -0.0256,-1.781824 -0.0256,-3.92832 0,-2.9842489 0.01085,-3.9135645 0.04608,-3.9488 0.03503,-0.035029 0.743806,-0.04608 2.955449,-0.04608 2.837107,0 2.910356,0.00184 2.94912,0.074276 0.04303,0.080392 0.05906,7.702714 0.01644,7.813784 -0.02097,0.05466 -0.318391,0.06074 -2.9696,0.06074 -1.620461,0 -2.957812,-0.01152 -2.971892,-0.0256 z"
+     id="path951" />
+  <path
+     style="fill:#ffffff;stroke:#000000;stroke-width:0.133862"
+     d="m 5.8943999,12.004108 c 0,-3.5674549 0.0059,-3.9533545 0.060741,-3.9743997 0.033407,-0.01282 0.455533,-0.023308 0.9380571,-0.023308 0.7463604,0 0.8863238,0.00901 0.9376593,0.060343 0.052708,0.052708 0.060343,0.2422025 0.060343,1.4976 V 11.0016 h 0.9792 0.9792 V 9.5500799 c 0,-1.07776 0.011865,-1.4633854 0.04608,-1.4976 0.070673,-0.070673 1.8488037,-0.065011 1.9078007,0.00607 0.03163,0.038113 0.04065,1.105571 0.0335,3.9648001 L 11.8272,15.936 H 10.848 9.8687999 L 9.8587437,14.4672 9.8486871,12.9984 H 8.8699436 7.8911999 v 1.417659 c 0,0.779713 -0.010489,1.444993 -0.023308,1.4784 -0.020407,0.05318 -0.1446676,0.06074 -0.9984,0.06074 h -0.975092 z"
+     id="path132" />
+</svg>
