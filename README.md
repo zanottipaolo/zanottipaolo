@@ -2,7 +2,7 @@
 
 ### Hello world <img src="assets/Hi.gif" alt="👋" width="35"/>
 My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.unibg.it) and a _Software Engineer_ from Bergamo 🇮🇹<br>
-I like to read books, play CTF challenges, write code and I'm very into Open Source, Computer science, Management, Health and more generally in the world of Engineering. I'm always looking for something new to learn. 👀
+I like to read books, play CTF challenges, write code and I'm very into Open Source, Computer science, Healthcare and Management engineering (and generally the whole engineering world). I'm always looking for something new to learn. 👀
 
 Right now I'm trying to:
 - _Complete my Portfolio_ (_soon to be available at_ [_paolozanotti.dev_](https://paolozanotti.dev)) 👨🏻‍💻
