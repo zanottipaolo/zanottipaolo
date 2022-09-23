@@ -38,10 +38,6 @@ I'd also like to start a blog where I can write about my interests and my though
 </a>
 <a href="https://t.me/zanottipaolo" target="_blank" rel="noopener noreferrer">
 <img align="center" src="assets/telegram.svg" alt="TELEGRAM: zanottipaolo" height="30" width="40"/>
-</a>
-<a href="https://instagram.com/zaolopanotti" target="_blank" rel="noopener noreferrer">
-<img align="center" src="assets/instagram.svg" alt="INSTAGRAM: zaolopanotti" height="30" width="40" />
-</a>
 </p>
 
 _<p align="center">Check out my projects! 👇</p>_
