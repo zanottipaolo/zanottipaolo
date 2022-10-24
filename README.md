@@ -5,11 +5,9 @@ My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.
 I like to read books, play CTF challenges, write code and I'm very into computer science, renewable energy and management engineering (and generally the whole engineering world). I'm always looking for something new to learn. 👀
 
 Right now I'm trying to:
-- _Complete my Portfolio_ (_soon to be available at_ [_paolozanotti.dev_](https://paolozanotti.dev)) 👨🏻‍💻
+- _Start a blog where I can write about my interests and my thoughts_ ✏️
 - _Start my own company_ 🚀
 - _Graduate_ 🎓
-
-I'd also like to start a blog where I can write about my interests and my thoughts (coming soon) ✏️
 
 <details>
 <summary>These are my GitHub statistics (click to view) 📈</summary>
