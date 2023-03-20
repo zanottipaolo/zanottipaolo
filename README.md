@@ -6,7 +6,6 @@ I like to read books, play CTF challenges, write code and I'm very into computer
 
 Right now I'm trying to:
 - _Start a blog where I can write about my interests and my thoughts_ ✏️
-- _Start my own company_ 🚀
 - _Graduate_ 🎓
 
 <details>
