@@ -1,6 +1,7 @@
 ![Header Banner](assets/github-header-1.png)
 
-### Hello world <img src="assets/Hi.gif" alt="👋" width="35"/>
+**Hello world** <img src="assets/Hi.gif" alt="👋" width="35"/>
+
 My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.unibg.it) and a _Software Engineer_ from Bergamo 🇮🇹<br>
 I like to read books, play CTF challenges, write code and I'm very into computer science, renewable energy and management engineering (and generally the whole engineering world). I'm always looking for something new to learn. 👀
 
