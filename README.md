@@ -2,11 +2,11 @@
 
 **Hello world** <img src="assets/Hi_long.gif" alt="👋" width="35"/>
 
-My name is Paolo and I'm a _Computer Engineering student_ @ [UniBg](https://www.unibg.it) and a _Software Engineer_ from Bergamo 🇮🇹<br>
+My name is Paolo and I'm a _Computer Engineering student_ and a _Software Engineer_ from Bergamo 🇮🇹<br>
 I like to read books, play CTF challenges, write code and I'm very into computer science, renewable energy and biomedical engineering (and generally the whole engineering world). I'm always looking for something new to learn. 👀
 
 Right now I'm trying to:
-- _Start a blog where I can write about my interests and my thoughts_ ✏️
+- _Develop new tech skills into AI field_ 🤖
 - _Graduate_ 🎓
 
 <details>
