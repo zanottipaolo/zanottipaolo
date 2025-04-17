@@ -2,12 +2,12 @@
 
 **Hello world** <img src="assets/Hi_long.gif" alt="👋" width="35"/>
 
-My name is Paolo and I'm a _Computer Engineering student_ and a _Software Engineer_ from Bergamo 🇮🇹<br>
+My name is Paolo and I'm a _Software Engineer_ from Italy, now based in Rome 🇮🇹<br>
 I like to read books, play CTF challenges, write code and I'm very into computer science, renewable energy and biomedical engineering (and generally the whole engineering world). I'm always looking for something new to learn. 👀
 
 Right now I'm trying to:
 - _Develop new tech skills into AI field_ 🤖
-- _Graduate_ 🎓
+- _Build my Startup_ 🚀
 
 <details>
 <summary>These are my GitHub statistics (click to view) 📈</summary>
